@@ -24,4 +24,4 @@ This Repository contains the following in 3 formats (.docx, .odt, PDF):
  
         
 If you want would like to play, find your copy of the Compleat Ankh-Morpork City Guide(easily avaible from various booksellers), download this repository and start reading from the
-Rulebook.
+Rulebook. For your first case, I recommend playing the Case of the Perished Fishmonger.
