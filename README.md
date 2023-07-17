@@ -5,6 +5,7 @@ Welcome to Murder In Morpork. A murder mystery fan game set in Terry Pratchett�
 This game is designed to be played with a copy of "The Compleat Ankh-Morpork City Guide" and this repository contains all the additional resources you will need to play.
 
 You will need:
+
     -A legally obtained copy of “The Compleat Ankh-Morpork City Guide”
     -The enclosed street map that comes with “The Compleat Ankh-Morpork City Guide”
     -Pen or pencil
@@ -13,6 +14,7 @@ You will need:
     -The contents of this respository, in your prefered format.
 
 This Repository contains the following in 3 formats (.docx, .odt, PDF):
+
         -Rulebook
         -Casebooks
         -News sheets
