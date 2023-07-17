@@ -1,5 +1,4 @@
 # Murder-in-Morpork
-A pen and paper murder mystery game set in Terry Pratchet's Discworld, modeled after the Sherlock Holmes, consulting dectective games.
 
 Welcome to Murder In Morpork. A murder mystery fan game set in Terry Pratchett’s Discworld and inspired by Suzanne Goldberg’s Sherlock Holmes: Consulting Detective game book.
 This game is designed to be played with a copy of "The Compleat Ankh-Morpork City Guide" and this repository contains all the additional resources you will need to play.
@@ -25,5 +24,5 @@ This Repository contains the following in 3 formats (.docx, .odt, PDF):
         
  
         
-If you want would like to play, find your copy of the Compleat Ankh-Morpork City Guide(easily avaible from various booksellers), download this repository and start reading from the
+If you would like to play, find your copy of the Compleat Ankh-Morpork City Guide(easily available from various booksellers), download this repository and start reading from the
 Rulebook. For your first case, I recommend playing the Case of the Perished Fishmonger.
